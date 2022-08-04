@@ -1,7 +1,7 @@
 # Inclusive_Memory
 Project in Verilog HDL of a inclusive hierarchy memory with 3 levels, using the Quatus II software.
 
-=============================================================================
+===========================================================================
 
 Modules Design:
 
